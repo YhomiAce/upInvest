@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+upbitinvest.ltd	TRUE	/	FALSE	1999999999	CameFrom	deleted
+upbitinvest.ltd	TRUE	/	FALSE	1999999999	PHPSESSID	mq3l29a59ld8ccicnieiluveu7
+
